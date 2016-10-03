@@ -1,5 +1,6 @@
 # PvPGN modified by Mardon
-New commands:
+
+# New commands:
 
 /Money - players score
 
@@ -21,7 +22,8 @@ New commands:
 
 /Icon /seticon - commands for adding izmeninie icons (not modified)
 
-Modified commands
+# Modified commands
+
 /Stats - Statistics now associated with dota
 
 /Clearstats - clears the articles are related to dota
@@ -30,7 +32,7 @@ Modified commands
 
 /Lock /mute - with time
 
-Additional changes
+# Additional changes
 
 -Icons Given by avtomachichesky server despite the PTS
 
