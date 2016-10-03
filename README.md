@@ -34,6 +34,6 @@
 
 # Additional changes
 
--Icons Given by avtomachichesky server despite the PTS
+-Icons Given by auto server despite the PTS
 
 -When entering and leaving the player from the server writes in the current online database server
