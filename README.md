@@ -2,7 +2,7 @@
 
 # New commands:
 
-/Money - players score
+/Money - players coins
 
 /Shop - shop for players
 
