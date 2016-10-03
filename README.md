@@ -1,5 +1,6 @@
 # PvPGN modified by Mardon
 New commands:
+
 /Money - players score
 
 /Shop - shop for players
@@ -15,15 +16,22 @@ New commands:
 /Lt - lotareya
 
 /Host /unhost /swap /start /hold /close /open /openall /closeall /bot - to create and control games
+
 /Infos /reds - sends announcement from neytralnogo Player
+
 /Icon /seticon - commands for adding izmeninie icons (not modified)
 
-Modified team
+Modified commands
 /Stats - Statistics now associated with dota
+
 /Clearstats - clears the articles are related to dota
+
 /Ann and /redann - announcement from the server
+
 /Lock /mute - with time
 
 Additional changes
+
 -Icons Given by avtomachichesky server despite the PTS
+
 -When entering and leaving the player from the server writes in the current online database server
